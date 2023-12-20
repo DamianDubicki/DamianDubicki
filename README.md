@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Linux, Python**
 
-- 📝 I regularly write articles on [coffee and bamboo furniture](coffee and bamboo furniture)
+- 📝 I regularly write articles on coffee and bamboo furniture
 
 - 💬 Ask me about **Java, Spring Boot**
 
